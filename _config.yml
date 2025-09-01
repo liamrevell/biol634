@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: null
 title: "Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)"
 description: "Course website for Biol 634 at UMass Boston"
+markdown: kramdown
