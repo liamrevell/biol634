@@ -79,35 +79,35 @@ In the second part of this course, students will learn the important theory and 
 ---
 
 ## Accommodations
-The University of Massachusetts Boston is committed to creating learning environments that are inclusive and accessible.  
-
-If you have a personal circumstance that will impact your learning and performance in this class, please let me know as soon as possible, so we can discuss the best ways to meet your needs and the requirements of the course.  
-
-If you have a documented disability, or would like guidance about navigating support services, contact the Ross Center for Disability Services:  
-- **Email:** [ross.center@umb.edu](mailto:ross.center@umb.edu)  
-- **Phone:** 617-287-7430  
-- **Location:** Campus Center, UL Room 211  
-- **Website:** [rosscenter.umb.edu](http://www.rosscenter.umb.edu)  
+UMass Boston is committed to creating learning environments that are inclusive and accessible. If you have a personal circumstance that will impact your learning and performance in this class, please let me know as soon as possible, so we can discuss the best ways to meet your needs and the requirements of the course. If you have a documented disability, or would like guidance about navigating support services, contact the Ross Center for Disability Services by email (ross.center@umb.edu), phone (617-287-7430), or in person (Campus Center, UL Room 211). To receive accommodations, students must be registered with the Ross Center and must request accommodations each semester that they are in attendance at UMass Boston. For more information visit: https://www.umb.edu/academics/seas/disability-services/. Please note that the Ross Center will provide a letter for your instructor with information about your accommodation only and not about your specific disability.
 
 ---
 
 ## Academic Integrity and Student Code of Conduct
-Education at the University of Massachusetts Boston is sustained by academic integrity. Academic integrity requires that all members of the campus community are honest, trustworthy, responsible, respectful, and fair in academic work at the university.  
+Education at UMass Boston is sustained by academic integrity. Academic integrity requires that all members of the campus community are honest, trustworthy, responsible, respectful, and fair in academic work at the university. As part of being educated here, students learn, exercise, increase, and uphold academic integrity. Academic integrity is essential within all classrooms, in the many spaces where academic work is carried out by all members of the UMass Boston community, and in our local and global communities where the value of this education fulfills its role as a public good. Students are expected to adhere to the Student Code of Conduct, including policies about academic integrity, delineated in the University of Massachusetts Boston Graduate Studies Bulletin, Undergraduate Catalog, and relevant program student handbook(s), linked at www.umb.edu/academics/academic_integrity.
 
-Students are expected to adhere to the Student Code of Conduct, including policies about academic integrity, delineated in the University of Massachusetts Boston Graduate Studies Bulletin, Undergraduate Catalog, and relevant program student handbook(s).  
-[More information](https://www.umb.edu/academics/academic_integrity).  
+---
+
+## Use of Artificial Intelligence (AI) Tools
+AI is allowed with attribution: Use of AI tools, including ChatGPT, is permitted in this course on certain assignments, as outlined in class. To adhere to our scholarly values and to the Student Code of Conduct, students must cite any AI-generated material that informed their work; citations should include not 7 only in-text citations and listing in the references, but also the full text of cited ChatGPT (or other Large Language Model (LLM) generator) as an appendix to the assignment. Using an AI tool to generate content without proper attribution qualifies as academic dishonesty. Students are also responsible for making sure that any AI generated text does not contain false or erroneous information. If students are unsure about whether or not a source is appropriate to use in the assignment, they should contact the instructor.
 
 ---
 
 ## Health, Wellbeing, and Success
-- **COVID-19:** If you have symptoms, do not come to campus. Flexibility and support will be provided.  
-- **Emotional distress?** Call 617-287-5690 (licensed clinician available 24/7).  
-- **Campus question or issue?** Use *Here4U* in the UMass Boston app or [www.umb.edu/here4U](https://www.umb.edu/here4U).  
-- **Advice navigating situations?** Contact the [Dean of Students Office](https://www.umb.edu/deanofstudents).  
-- **Housing, food insecurity, student life, recreation:** [www.umb.edu/life](https://www.umb.edu/life).  
-- **Immigrant-origin, DACA, TPS, and undocumented student resources:** [www.umb.edu/immigrant](https://www.umb.edu/immigrant).  
-- **Identity-based community support:** [www.umb.edu/identity-support](https://www.umb.edu/identity-support).  
-- **Academic support services:** [www.umb.edu/academics/vpass/academic_support](https://www.umb.edu/academics/vpass/academic_support).  
-- **Religious accommodations:** Fill out the [excused absence form](https://www.umb.edu/religiousabsence) (requires 2 weeks’ notice).  
+UMass Boston is a vibrant, multi-cultural, and inclusive institution committed to ensuring that all members of our diverse campus community are able to thrive and succeed. The university provides a wide variety of resources to support students’ overall success. As we continue to deal with the ongoing impacts of the COVID-19 pandemic, these resources are more important than ever. 
+
+Are you in emotional distress? Call 617.287.5690 to speak with a licensed clinician 24/7 who can offer support, crisis recommendations, and assistance with finding resources.
+
+Have a campus question or issue? Use Here4U in the UMass Boston app or via umb.edu/here4U.
+
+Need help with food insecurity, legal consultation, financial counseling or emergency supplies? Contact U-ACCESS (https://www.umb.edu/campus-life/current-students/u-access/)
+
+Want advice in navigating a university or life situation? Contact the Dean of Students Office at umb.edu/deanofstudents.
+
+Looking for identity-based community support? Find more resources at https://www.umb.edu/all-of-us/
+  
+Want to make the most of your academic experience? Visit https://www.umb.edu/academics/seas/.
+
+Unable to attend class on a specific date or participate in an exam or class requirement due to a religious observance? Fill out the excused absence form (requires 2-weeks’ notice) to request religious accommodation at https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/.
 
 ---
