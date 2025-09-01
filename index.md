@@ -1,6 +1,10 @@
-# Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)
-
 ---
+title: Biol 634
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
+# Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)
 
 **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu))  
 **Office hours:** TBD & by appointment
