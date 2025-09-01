@@ -94,20 +94,13 @@ AI is allowed with attribution: Use of AI tools, including ChatGPT, is permitted
 ---
 
 ## Health, Wellbeing, and Success
-UMass Boston is a vibrant, multi-cultural, and inclusive institution committed to ensuring that all members of our diverse campus community are able to thrive and succeed. The university provides a wide variety of resources to support students’ overall success. As we continue to deal with the ongoing impacts of the COVID-19 pandemic, these resources are more important than ever. 
-
-Are you in emotional distress? Call 617.287.5690 to speak with a licensed clinician 24/7 who can offer support, crisis recommendations, and assistance with finding resources.
-
-Have a campus question or issue? Use Here4U in the UMass Boston app or via umb.edu/here4U.
-
-Need help with food insecurity, legal consultation, financial counseling or emergency supplies? Contact U-ACCESS (https://www.umb.edu/campus-life/current-students/u-access/)
-
-Want advice in navigating a university or life situation? Contact the Dean of Students Office at umb.edu/deanofstudents.
-
-Looking for identity-based community support? Find more resources at https://www.umb.edu/all-of-us/
-  
-Want to make the most of your academic experience? Visit https://www.umb.edu/academics/seas/.
-
-Unable to attend class on a specific date or participate in an exam or class requirement due to a religious observance? Fill out the excused absence form (requires 2-weeks’ notice) to request religious accommodation at https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/.
+- UMass Boston is a vibrant, multi-cultural, and inclusive institution committed to ensuring that all members of our diverse campus community are able to thrive and succeed. The university provides a wide variety of resources to support students’ overall success. As we continue to deal with the ongoing impacts of the COVID-19 pandemic, these resources are more important than ever. 
+- Are you in emotional distress? Call 617.287.5690 to speak with a licensed clinician 24/7 who can offer support, crisis recommendations, and assistance with finding resources.
+- Have a campus question or issue? Use Here4U in the UMass Boston app or via umb.edu/here4U.
+- Need help with food insecurity, legal consultation, financial counseling or emergency supplies? Contact U-ACCESS (https://www.umb.edu/campus-life/current-students/u-access/)
+- Want advice in navigating a university or life situation? Contact the Dean of Students Office at umb.edu/deanofstudents.
+- Looking for identity-based community support? Find more resources at https://www.umb.edu/all-of-us/
+- Want to make the most of your academic experience? Visit https://www.umb.edu/academics/seas/.
+- Unable to attend class on a specific date or participate in an exam or class requirement due to a religious observance? Fill out the excused absence form (requires 2-weeks’ notice) to request religious accommodation at https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/.
 
 ---
