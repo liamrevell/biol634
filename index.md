@@ -1,11 +1,9 @@
-# Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)
-
 **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu))  
 **Office hours:** TBD & by appointment
 
 ---
 
-## Texts
+## Optional texts
 1. Harmon, L. J. 2018. *Phylogenetic Comparative Methods: Learning from Trees*. ISBN: 978-1719584463. Free PDF (or buy a hard-copy on Amazon.com).  
 2. Revell, L. J. and L. J. Harmon. 2022. *Phylogenetic Comparative Methods in R*. Princeton University Press, Princeton NJ. (Recommended.)  
 3. Yang, Z. 2015. *Molecular Evolution: A Statistical Approach*. Oxford University Press, Oxford UK. (Recommended.)  
