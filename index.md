@@ -8,7 +8,7 @@ title: Biol 634
 
 - **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu))  
 - **Meeting time & place:** Wednesdays & Fridays from 1-215pm, Sep. 3 to Dec. 12, in Wheatley Hall W03-0022.
-- **Zoom meeting room (for online participants):** [ https://umassboston.zoom.us/j/93343863686]( https://umassboston.zoom.us/j/93343863686) (classes will be recorded, but synchronous participation is strongly encouraged).
+- **Zoom meeting room (for online participants):** [https://umassboston.zoom.us/j/93343863686](https://umassboston.zoom.us/j/93343863686) (classes will be recorded, but synchronous participation is strongly encouraged).
 - **Office hours:** TBD, drop-in, & by appointment
 
 ---
@@ -37,6 +37,8 @@ In the second part of this course, students will learn the important theory and 
 ---
 
 ## Topics & Schedule (subject to change)
+We will cover only a subset of the topics & exercises given below, depending on class participant interests and prior experience.
+
 1. Introduction to phylogenetic terms & concepts (lecture)  
 2. Exercise 1: A brief introduction to phylogenetics in R (computer lab)  
 3. Introduction to inferring phylogenies: the method of Maximum Parsimony (lecture)  
@@ -89,7 +91,7 @@ In the second part of this course, students will learn the important theory and 
 ---
 
 ## Accommodations
-UMass Boston is committed to creating learning environments that are inclusive and accessible. If you have a personal circumstance that will impact your learning and performance in this class, please let me know as soon as possible, so we can discuss the best ways to meet your needs and the requirements of the course. If you have a documented disability, or would like guidance about navigating support services, contact the Ross Center for Disability Services by email (ross.center@umb.edu), phone (617-287-7430), or in person (Campus Center, UL Room 211). To receive accommodations, students must be registered with the Ross Center and must request accommodations each semester that they are in attendance at UMass Boston. For more information visit: https://www.umb.edu/academics/seas/disability-services/. Please note that the Ross Center will provide a letter for your instructor with information about your accommodation only and not about your specific disability.
+UMass Boston is committed to creating learning environments that are inclusive and accessible. If you have a personal circumstance that will impact your learning and performance in this class, please let me know as soon as possible, so we can discuss the best ways to meet your needs and the requirements of the course. If you have a documented disability, or would like guidance about navigating support services, contact the Ross Center for Disability Services by email ([ross.center@umb.edu](mailto:ross.center@umb.edu)), phone (617-287-7430), or in person (Campus Center, UL Room 211). To receive accommodations, students must be registered with the Ross Center and must request accommodations each semester that they are in attendance at UMass Boston. For more information visit: [https://www.umb.edu/academics/seas/disability-services/](https://www.umb.edu/academics/seas/disability-services/). Please note that the Ross Center will provide a letter for your instructor with information about your accommodation only and not about your specific disability.
 
 ---
 
@@ -107,10 +109,10 @@ AI is allowed with attribution: Use of AI tools, including ChatGPT, is permitted
 - UMass Boston is a vibrant, multi-cultural, and inclusive institution committed to ensuring that all members of our diverse campus community are able to thrive and succeed. The university provides a wide variety of resources to support students’ overall success. As we continue to deal with the ongoing impacts of the COVID-19 pandemic, these resources are more important than ever. 
 - Are you in emotional distress? Call 617.287.5690 to speak with a licensed clinician 24/7 who can offer support, crisis recommendations, and assistance with finding resources.
 - Have a campus question or issue? Use Here4U in the UMass Boston app or via umb.edu/here4U.
-- Need help with food insecurity, legal consultation, financial counseling or emergency supplies? Contact U-ACCESS (https://www.umb.edu/campus-life/current-students/u-access/)
-- Want advice in navigating a university or life situation? Contact the Dean of Students Office at umb.edu/deanofstudents.
-- Looking for identity-based community support? Find more resources at https://www.umb.edu/all-of-us/
-- Want to make the most of your academic experience? Visit https://www.umb.edu/academics/seas/.
-- Unable to attend class on a specific date or participate in an exam or class requirement due to a religious observance? Fill out the excused absence form (requires 2-weeks’ notice) to request religious accommodation at https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/.
+- Need help with food insecurity, legal consultation, financial counseling or emergency supplies? Contact U-ACCESS ([https://www.umb.edu/campus-life/current-students/u-access/](https://www.umb.edu/campus-life/current-students/u-access/))
+- Want advice in navigating a university or life situation? Contact the Dean of Students Office at [https://www.umb.edu/deanofstudents](https://www.umb.edu/deanofstudents).
+- Looking for identity-based community support? Find more resources at [https://www.umb.edu/all-of-us/](https://www.umb.edu/all-of-us/)
+- Want to make the most of your academic experience? Visit [https://www.umb.edu/academics/seas/](https://www.umb.edu/academics/seas/).
+- Unable to attend class on a specific date or participate in an exam or class requirement due to a religious observance? Fill out the excused absence form (requires 2-weeks’ notice) to request religious accommodation at [https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/](https://www.umb.edu/campus-life/current-students/policies/right-to-excused-absence-because-religious-belief/).
 
 ---
