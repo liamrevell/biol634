@@ -39,8 +39,8 @@ In the second part of this course, students will learn the important theory and 
 ## Presentations & Class Recordings
 
 1. Sept. 3: Introductions & basic phylogeny terms & concepts. 
-  -- [video](https://umassboston.zoom.us/rec/share/eWXtqev8SGIrH9vhfkOGcpizbpXNhYRl_Me5r40LNo_6BugzhWFcV5jokEuylEJ7.ZPKcZxE4-ZfnX_KT?startTime=1756918436000) (Passcode: 9Ff&y!&Q)
-  -- [PDF](lec/1.IntroPhylogenies.pdf)
+    - [video](https://umassboston.zoom.us/rec/share/eWXtqev8SGIrH9vhfkOGcpizbpXNhYRl_Me5r40LNo_6BugzhWFcV5jokEuylEJ7.ZPKcZxE4-ZfnX_KT?startTime=1756918436000) (Passcode: 9Ff&y!&Q)
+    - [PDF](lec/1.IntroPhylogenies.pdf)
 
 ---
 
