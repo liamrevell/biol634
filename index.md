@@ -42,10 +42,14 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/eWXtqev8SGIrH9vhfkOGcpizbpXNhYRl_Me5r40LNo_6BugzhWFcV5jokEuylEJ7.ZPKcZxE4-ZfnX_KT?startTime=1756918436000) (Passcode required.)
     - [PDF](lec/1.IntroPhylogenies.pdf)
 
-2. Sept. 5: Working with phylogenies & phylogenetic data in R.
+2. Sept. 5: Working with phylogenies in R.
+    - [video](https://umassboston.zoom.us/rec/share/WRjayCcgdUd9OyGuCXP7RDtGlM1oYPtlwkKQVy8tMIpWxpv_wjQYK6WkVc7y4ntW.ssijcQ_trArQonAz) (Passcode required.)
+    - [R code](ex/1/introduction-R-phylogenetics.R)
+    - [primates.phy](data/primates.phy)
+
+3. Sept. 10: Introduction to phylogenetic tree inference.
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     - [primates.csv](data/primates.csv)
-    - [primates.phy](data/primates.phy)
     - [woodmouse.fas](data/woodmouse.fas)
 
 ---
