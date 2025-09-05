@@ -42,6 +42,12 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/eWXtqev8SGIrH9vhfkOGcpizbpXNhYRl_Me5r40LNo_6BugzhWFcV5jokEuylEJ7.ZPKcZxE4-ZfnX_KT?startTime=1756918436000) (Passcode required.)
     - [PDF](lec/1.IntroPhylogenies.pdf)
 
+2. Sept. 5: Working with phylogenies & phylogenetic data in R.
+    - [Laurasiatherian.nex](data/Laurasiatherian.nex)
+    - [primates.csv](data/primates.csv)
+    - [primates.phy](data/primates.phy)
+    - [woodmouse.fas](data/woodmouse.fas)
+
 ---
 
 ## Topics & Schedule (subject to change)
