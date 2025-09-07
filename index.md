@@ -44,7 +44,7 @@ In the second part of this course, students will learn the important theory and 
 
 2. Sept. 5: Working with phylogenies in R.
     - [video](https://umassboston.zoom.us/rec/share/WRjayCcgdUd9OyGuCXP7RDtGlM1oYPtlwkKQVy8tMIpWxpv_wjQYK6WkVc7y4ntW.ssijcQ_trArQonAz) (Passcode required.)
-    - [R code](ex/1/introduction-R-phylogenetics.R)
+    - [R code](ex/1/intro-R-phylogenetics.R)
     - [primates.phy](data/primates.phy)
 
 3. Sept. 10: Introduction to phylogenetic tree inference.
