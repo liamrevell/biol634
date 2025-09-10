@@ -50,6 +50,7 @@ In the second part of this course, students will learn the important theory and 
 3. Sept. 10: Introduction to phylogenetic tree inference.
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     - [primates.csv](data/primates.csv)
+    - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
 
 ---
