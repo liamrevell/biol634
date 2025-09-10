@@ -48,6 +48,9 @@ In the second part of this course, students will learn the important theory and 
     - [primates.phy](data/primates.phy)
 
 3. Sept. 10: Introduction to phylogenetic tree inference.
+    - [video](https://umassboston.zoom.us/rec/share/_E6mm6ln97vG_1p1_Uwns8bQW1fX47d1WYI8Qec7e0KD1HoFr48V0KTVUMVHm_99.xoQP4-zi2r_L6mDb)
+    - [PDF](lec/2.IntroPhylogenyInference.pdf)
+    - [R code](ex/2/inference-via-parsimony.R)
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
