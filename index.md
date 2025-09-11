@@ -6,10 +6,10 @@ title: Biol 634
 
 # Biol 634: Methods in Phylogenetic & Macroevolutionary Analysis (using R)
 
-- **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu))  
+- **Professor:** Dr. Liam J. Revell ([liam.revell@umb.edu](mailto:liam.revell@umb.edu)).
 - **Meeting time & place:** Wednesdays & Fridays from 1-2:15pm, Sep. 3 to Dec. 12, in Wheatley Hall W03-0022.
 - **Zoom meeting room (for online participants):** [https://umassboston.zoom.us/j/93343863686](https://umassboston.zoom.us/j/93343863686) (classes will be recorded, but synchronous participation is strongly encouraged).
-- **Office hours:** 1-2:30pm Mondays, 2:30-4pm Wednesdays, drop-in, & by appointment
+- **Office hours:** 1-2:30pm Mondays, 2:30-4pm Wednesdays, drop-in, & by appointment.
 
 ---
 
