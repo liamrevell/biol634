@@ -2,7 +2,7 @@
 
 In this challenge you will estimate a tree from a small-scale DNA sequence dataset from Jackman et al. (1999).
 
-Download the following data file from the class page: [../../data/Jackman-etal.nex](Jackman-etal.nex).
+Download the following data file from the class page: [Jackman-etal.nex](../../data/Jackman-etal.nex).
 
 1. Read the data file into memory. Use the functions of phangorn to estimate an unrooted MP tree using 'Fitch' (unweighted) parsimony. Plot the unrooted tree.
 2. Root the tree using outgroup rooting and the outgroup taxa/taxon *Diplolaemus darwinii* and/or *Polychrus acutirostris*.
@@ -12,5 +12,5 @@ Please note: if you elect to turn in your solution (this is not required) please
 
 References:
 
-1. Data for this exercise are here: [http://datadryad.org/resource/doi:10.5061/dryad.412](doi:10.5061/dryad.412) (via Data Dryad).
+1. Data for this exercise are here: [doi:10.5061/dryad.412](http://datadryad.org/resource/doi:10.5061/dryad.412) (via Data Dryad).
 2. Full reference: Jackman TR, Larson A, de Queiroz K, Losos JB (1999) Phylogenetic relationships and tempo of early diversification in Anolis lizards. Systematic Biology 48(2): 254-285. [PDF](https://sites.wustl.edu/losos/files/2018/12/Phylogenetic-relationships-and-the-tempo-of-early-diversification-in-Anolis-lizards.pdf)
