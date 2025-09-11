@@ -1,3 +1,9 @@
+---
+title: HW 1
+---
+
+<link rel="stylesheet" href="../../assets/style.css">
+
 ## Homework problem 1: Estimating a tree from DNA sequences using MP
 
 In this challenge you will estimate a tree from a small-scale DNA sequence dataset from Jackman et al. (1999).
