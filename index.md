@@ -53,7 +53,7 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/2/inference-via-parsimony.R)
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     
-4. Sept. 12: 
+4. Sept. 12: Introduction to ML & model-based phylogeny inference.
     - [Homework 1: Maximum Parsimony phylogeny estimation](hw/1/hw1-problem.md)
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
