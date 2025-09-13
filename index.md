@@ -54,7 +54,11 @@ In the second part of this course, students will learn the important theory and 
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     
 4. Sept. 12: Introduction to ML & model-based phylogeny inference.
+    - [video](https://umassboston.zoom.us/rec/share/FGsHHVVp_Z4EL8icYeAII2ZAV6Wq2pxnRknyGxy578D24WBngK315bTcr_D2aPIA.LZgLlVATQ2TI-UIi)
+    - [PDF](lec/3.MaximumLikelihood.pdf)
     - [Homework 1: Maximum Parsimony phylogeny estimation](hw/1/hw1-problem.md)
+    
+5. Sept. 15:
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
