@@ -87,8 +87,11 @@ tree<-minRotate(minRotate(mp_ratchet.rooted,sort(tip)),
 
 ## plot comparison (requires jpeg package)
 library(jpeg)
-img<-readJPEG(
-  source="https://liamrevell.github.io/biol634/data/Jackman-etal-tree.jpg")
+download.file(
+  url="https://liamrevell.github.io/biol634/data/Jackman-etal-tree.jpg",
+  destfile="Jackman-etal-tree.jpg",
+  mode="wb")
+img<-readJPEG(source="Jackman-etal-tree.jpg")
 layout(matrix(c(1,2),1,2),widths=c(0.5,0.5))
 plot.new()
 par(mar=rep(0,4))
