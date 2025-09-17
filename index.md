@@ -58,7 +58,13 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/3.MaximumLikelihood.pdf)
     - [Homework 1: Maximum Parsimony phylogeny estimation](hw/1/hw1-problem.md)
     
-5. Sept. 15:
+5. Sept. 17: Review of MP homework & more on Maximum Likelihood
+    - [video 1](https://umassboston.zoom.us/rec/share/N6p5Z0IQK2uUIGCLBFhqJ-BGx4KdYw5n_BXClUAi-B6fAETDGNgMLGmfXb_iNLxG.fGRCL5Q-GPj1l3ts), [video 2](https://umassboston.zoom.us/rec/share/tScSghOmY6b7Y6zFn97Xg4tTJGJWJH_0eemRO9w5SVKg5u3aNfSQPDcK7uLDTdDw.D_azWz8uTF-cZBFD)
+    - [R code](ex/3/parsimony-and-maximum-likelihood.R)
+    - [Jackman-etal.nex](data/Jackman-etal.nex)
+    - [Jackman-etal-tree.jpg](data/Jackman-etal-tree.jpg)
+
+6. Sept. 19:
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
