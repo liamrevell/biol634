@@ -65,6 +65,7 @@ In the second part of this course, students will learn the important theory and 
     - [Jackman-etal-tree.jpg](data/Jackman-etal-tree.jpg)
 
 6. Sept. 19:
+    - [Google Sheet](https://docs.google.com/spreadsheets/d/1Hu0PmyClE75FrsSXHQ4XfRRMTh5G0A5HHaQW3UZ3dik/edit?usp=sharing)
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
