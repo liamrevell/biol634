@@ -64,8 +64,12 @@ In the second part of this course, students will learn the important theory and 
     - [Jackman-etal.nex](data/Jackman-etal.nex)
     - [Jackman-etal-tree.jpg](data/Jackman-etal-tree.jpg)
 
-6. Sept. 19:
+6. Sept. 19: Maximum Likelihood tree inference in R
+    - [video](https://umassboston.zoom.us/rec/share/FBIRzoG7XS_roFcihQZcuZLuHfeuWs9HH9V1_bFsaj2kKoSgPzgpROjSLvTeIyam.jDNsz96P8vt9UOee)
+    - [R code](ex/4/maximum-likelihood-continued.R)
     - [Google Sheet](https://docs.google.com/spreadsheets/d/1Hu0PmyClE75FrsSXHQ4XfRRMTh5G0A5HHaQW3UZ3dik/edit?usp=sharing)
+
+7. Sept. 24:
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
