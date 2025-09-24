@@ -69,8 +69,11 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/4/maximum-likelihood-continued.R)
     - [Google Sheet](https://docs.google.com/spreadsheets/d/1Hu0PmyClE75FrsSXHQ4XfRRMTh5G0A5HHaQW3UZ3dik/edit?usp=sharing)
 
-7. Sept. 24:
+7. Sept. 24: Morphological phylogeny inference (using MP or ML) and the nonparametric bootstrap
+    - [video](https://umassboston.zoom.us/rec/share/V5POIJkdZZLzS35PBjtPGUXtCBOBT-5zIPU7LwT-Up8Fpu4G6BLcofF6qA1ob25k.RzDaOSP4vgxH7kWZ)
     - [craniata_tree.nwk](data/craniata_tree.nwk)
+    - [R code](ex/5/morphological-phylogeny-inference.R)
+    - [PDF](lec/4.Bootstrap-other-methods.pdf)
 
 8. Sept. 26:
     - [primates.csv](data/primates.csv)
