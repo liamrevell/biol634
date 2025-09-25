@@ -76,6 +76,10 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/4.Bootstrap-other-methods.pdf)
 
 8. Sept. 26:
+    - [Homework 2: Testing trees](hw/2/hw2-problem.md)
+    - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
+
+9. Oct. 1:
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
