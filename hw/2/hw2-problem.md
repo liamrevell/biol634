@@ -12,8 +12,9 @@ Download the following data file from the class page: [concat.goby_75pct_JE2.nex
 
 1. Estimate a Maximum Parsimony tree for this dataset using *phangorn*. You can use the function `pratchet` to get a good tree, but I suggest trying both with & without a random starting tree to see if you converge on the same result.
 2. Estimate a Maximum Likelihood tree for this dataset using *phangorn*. You should first select an appropriate model using `modelTest`. You can use the function `pml_bb` if you want, or `pml` followed by `optim.pml`. Note that this will probably take a while!
-3. Both `pratchet` and `pml_bb` return phylogenies that contain estimated bootstrap proportions. Identify where this information is stored in each object and plot both trees with their bootstrap proportions shown.
-4. Statistically compare your two trees using the Shimodaira-Hasegawa method. Are the two trees statistically different by this measure?
+3. Root both trees using an appropriate outgroup based on the published study (or your knowledge of this group).
+4. Both `pratchet` and `pml_bb` return phylogenies that contain estimated bootstrap proportions. Identify where this information is stored in each object and plot both trees with their bootstrap proportions shown.
+5. Statistically compare your two trees using the Shimodaira-Hasegawa method. Are the two trees statistically different by this measure?
 
 Please note: if you elect to turn in your solution (this is not required) please do so in Rmarkdown and rendered (HTML or PDF) format.
 
