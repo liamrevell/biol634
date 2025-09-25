@@ -21,4 +21,4 @@ Please note: if you elect to turn in your solution (this is not required) please
 References:
 
 1. Data for this exercise are here: [doi:10.5061/dryad.n02v6wx96](https://doi.org/10.5061/dryad.n02v6wx96) (via Data Dryad).
-2. Full reference: Johnson K, Tornabene L, Li C, Ruber L, Schliewen U, Hogan D, Pezold F (2005) Exon-capture data resolve relationships resulting from a rapid radiation within family Gobiidae. Molecular Phylogenetics and Evolution 212: 108424. [PDF](https://doi.org/10.1016/j.ympev.2025.108424).
+2. Full reference: Johnson K, Tornabene L, Li C, Ruber L, Schliewen U, Hogan D, Pezold F (2005) Exon-capture data resolve relationships resulting from a rapid radiation within family Gobiidae. Molecular Phylogenetics and Evolution 212: 108424. [PDF](https://doi.org/10.1016/j.ympev.2025.108424)
