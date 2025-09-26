@@ -77,6 +77,7 @@ In the second part of this course, students will learn the important theory and 
 
 8. Sept. 26: Computing bootstrap proportions from split frequencies, consensus tree building, testing trees, and an explanation of likelihood
     - [video](https://umassboston.zoom.us/rec/share/IcEaAGyE_sG8HDRS5o-Lunh1D6KD6aVYxhVCQiPp_P63x8qohcXATZkvWkpZbnBh.8b4HhqPV4mNxKnim)
+    - [PDF](lec/5.Consensus-trees-and-networks.pdf)
     - [Homework 2: Testing trees](hw/2/hw2-problem.md)
     - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
 
