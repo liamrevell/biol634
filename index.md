@@ -78,6 +78,9 @@ In the second part of this course, students will learn the important theory and 
 8. Sept. 26:
     - [Homework 2: Testing trees](hw/2/hw2-problem.md)
     - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
+    - [Jackman_trees.phy](data/Jackman_trees.phy)
+    - [H3N2.csv](data/H3N2.csv)
+    - [H3N2.fasta](data/H3N2.fasta)
 
 9. Oct. 1:
     - [primates.csv](data/primates.csv)
