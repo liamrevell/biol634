@@ -82,6 +82,8 @@ In the second part of this course, students will learn the important theory and 
     - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
 
 9. Oct. 1:
+    - [Goby_MP.tre](data/Goby_MP.tre)
+    - [Goby_ML.tre](data/Goby_ML.tre)
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
