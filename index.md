@@ -81,9 +81,13 @@ In the second part of this course, students will learn the important theory and 
     - [Homework 2: Testing trees](hw/2/hw2-problem.md)
     - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
 
-9. Oct. 1:
+9. Oct. 1: Tree comparison, bootstraps, rooting, and tree distances
+    - [video](https://umassboston.zoom.us/rec/share/nh0FM921dSkdu9yhip1DbdaS8KjcfFaT8eHKrQbXHG43y-fvFQbcb2myoutc23kT.1bIKjUf42l6jLkY6)
     - [Goby_MP.tre](data/Goby_MP.tre)
     - [Goby_ML.tre](data/Goby_ML.tre)
+    - [R code](ex/6/tree-comparison-and-distance.R)
+    
+10. Oct. 3:
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
