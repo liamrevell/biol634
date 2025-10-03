@@ -48,47 +48,47 @@ In the second part of this course, students will learn the important theory and 
     - [primates.phy](data/primates.phy)
 
 3. Sept. 10: Introduction to phylogenetic tree inference.
-    - [video](https://umassboston.zoom.us/rec/share/_E6mm6ln97vG_1p1_Uwns8bQW1fX47d1WYI8Qec7e0KD1HoFr48V0KTVUMVHm_99.xoQP4-zi2r_L6mDb)
+    - [video](https://umassboston.zoom.us/rec/share/_E6mm6ln97vG_1p1_Uwns8bQW1fX47d1WYI8Qec7e0KD1HoFr48V0KTVUMVHm_99.xoQP4-zi2r_L6mDb) (Passcode required.)
     - [PDF](lec/2.IntroPhylogenyInference.pdf)
     - [R code](ex/2/inference-via-parsimony.R)
     - [Laurasiatherian.nex](data/Laurasiatherian.nex)
     
 4. Sept. 12: Introduction to ML & model-based phylogeny inference.
-    - [video](https://umassboston.zoom.us/rec/share/FGsHHVVp_Z4EL8icYeAII2ZAV6Wq2pxnRknyGxy578D24WBngK315bTcr_D2aPIA.LZgLlVATQ2TI-UIi)
+    - [video](https://umassboston.zoom.us/rec/share/FGsHHVVp_Z4EL8icYeAII2ZAV6Wq2pxnRknyGxy578D24WBngK315bTcr_D2aPIA.LZgLlVATQ2TI-UIi) (Passcode required.)
     - [PDF](lec/3.MaximumLikelihood.pdf)
     - [Homework 1: Maximum Parsimony phylogeny estimation](hw/1/hw1-problem.md)
     
 5. Sept. 17: Review of MP homework & more on Maximum Likelihood
-    - [video 1](https://umassboston.zoom.us/rec/share/N6p5Z0IQK2uUIGCLBFhqJ-BGx4KdYw5n_BXClUAi-B6fAETDGNgMLGmfXb_iNLxG.fGRCL5Q-GPj1l3ts), [video 2](https://umassboston.zoom.us/rec/share/tScSghOmY6b7Y6zFn97Xg4tTJGJWJH_0eemRO9w5SVKg5u3aNfSQPDcK7uLDTdDw.D_azWz8uTF-cZBFD)
+    - [video 1](https://umassboston.zoom.us/rec/share/N6p5Z0IQK2uUIGCLBFhqJ-BGx4KdYw5n_BXClUAi-B6fAETDGNgMLGmfXb_iNLxG.fGRCL5Q-GPj1l3ts), [video 2](https://umassboston.zoom.us/rec/share/tScSghOmY6b7Y6zFn97Xg4tTJGJWJH_0eemRO9w5SVKg5u3aNfSQPDcK7uLDTdDw.D_azWz8uTF-cZBFD) (Passcode required.)
     - [R code](ex/3/parsimony-and-maximum-likelihood.R)
     - [Jackman-etal.nex](data/Jackman-etal.nex)
     - [Jackman-etal-tree.jpg](data/Jackman-etal-tree.jpg)
 
 6. Sept. 19: Maximum Likelihood tree inference in R
-    - [video](https://umassboston.zoom.us/rec/share/FBIRzoG7XS_roFcihQZcuZLuHfeuWs9HH9V1_bFsaj2kKoSgPzgpROjSLvTeIyam.jDNsz96P8vt9UOee)
+    - [video](https://umassboston.zoom.us/rec/share/FBIRzoG7XS_roFcihQZcuZLuHfeuWs9HH9V1_bFsaj2kKoSgPzgpROjSLvTeIyam.jDNsz96P8vt9UOee) (Passcode required.)
     - [R code](ex/4/maximum-likelihood-continued.R)
-    - [Google Sheet](https://docs.google.com/spreadsheets/d/1Hu0PmyClE75FrsSXHQ4XfRRMTh5G0A5HHaQW3UZ3dik/edit?usp=sharing)
+    - [Google Sheet](https://docs.google.com/spreadsheets/d/1Hu0PmyClE75FrsSXHQ4XfRRMTh5G0A5HHaQW3UZ3dik/edit?usp=sharing) (Passcode required.)
 
 7. Sept. 24: Morphological phylogeny inference (using MP or ML) and the nonparametric bootstrap
-    - [video](https://umassboston.zoom.us/rec/share/V5POIJkdZZLzS35PBjtPGUXtCBOBT-5zIPU7LwT-Up8Fpu4G6BLcofF6qA1ob25k.RzDaOSP4vgxH7kWZ)
+    - [video](https://umassboston.zoom.us/rec/share/V5POIJkdZZLzS35PBjtPGUXtCBOBT-5zIPU7LwT-Up8Fpu4G6BLcofF6qA1ob25k.RzDaOSP4vgxH7kWZ) (Passcode required.)
     - [craniata_tree.nwk](data/craniata_tree.nwk)
     - [R code](ex/5/morphological-phylogeny-inference.R)
     - [PDF](lec/4.Bootstrap-other-methods.pdf)
 
 8. Sept. 26: Computing bootstrap proportions from split frequencies, consensus tree building, testing trees, and an explanation of likelihood
-    - [video](https://umassboston.zoom.us/rec/share/IcEaAGyE_sG8HDRS5o-Lunh1D6KD6aVYxhVCQiPp_P63x8qohcXATZkvWkpZbnBh.8b4HhqPV4mNxKnim)
+    - [video](https://umassboston.zoom.us/rec/share/IcEaAGyE_sG8HDRS5o-Lunh1D6KD6aVYxhVCQiPp_P63x8qohcXATZkvWkpZbnBh.8b4HhqPV4mNxKnim) (Passcode required.)
     - [PDF](lec/5.Consensus-trees-and-networks.pdf)
     - [Homework 2: Testing trees](hw/2/hw2-problem.md)
     - [concat.goby_75pct_JE2.nex.fas](data/concat.goby_75pct_JE2.nex.fas)
 
 9. Oct. 1: Tree comparison, bootstraps, rooting, and tree distances
-    - [video](https://umassboston.zoom.us/rec/share/nh0FM921dSkdu9yhip1DbdaS8KjcfFaT8eHKrQbXHG43y-fvFQbcb2myoutc23kT.1bIKjUf42l6jLkY6)
+    - [video](https://umassboston.zoom.us/rec/share/nh0FM921dSkdu9yhip1DbdaS8KjcfFaT8eHKrQbXHG43y-fvFQbcb2myoutc23kT.1bIKjUf42l6jLkY6) (Passcode required.)
     - [Goby_MP.tre](data/Goby_MP.tre)
     - [Goby_ML.tre](data/Goby_ML.tre)
     - [R code](ex/6/tree-comparison-and-distance.R)
     
 10. Oct. 3: Bayes theorem & Bayesian phylogenetic inference
-    - [video](https://umassboston.zoom.us/rec/share/atIieAcNI9vWQryWIwu2eB0jnpfD9w5rFR2gz6wwcG5_ZRH3WupLtpmofL2OKWyE.nRKDn9WDkjPVXe7J)
+    - [video](https://umassboston.zoom.us/rec/share/atIieAcNI9vWQryWIwu2eB0jnpfD9w5rFR2gz6wwcG5_ZRH3WupLtpmofL2OKWyE.nRKDn9WDkjPVXe7J) (Passcode required.)
     - [PDF](lec/6.Other-topics-inference.pdf)
 
 11. Oct. 8:
