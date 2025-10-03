@@ -87,7 +87,11 @@ In the second part of this course, students will learn the important theory and 
     - [Goby_ML.tre](data/Goby_ML.tre)
     - [R code](ex/6/tree-comparison-and-distance.R)
     
-10. Oct. 3:
+10. Oct. 3: Bayes theorem & Bayesian phylogenetic inference
+    - [video](https://umassboston.zoom.us/rec/share/atIieAcNI9vWQryWIwu2eB0jnpfD9w5rFR2gz6wwcG5_ZRH3WupLtpmofL2OKWyE.nRKDn9WDkjPVXe7J)
+    - [PDF](lec/6.Other-topics-inference.pdf)
+
+11. Oct. 8:
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
