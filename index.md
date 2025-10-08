@@ -92,7 +92,7 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/6.Other-topics-inference.pdf)
 
 11. Oct. 8:
-    - [carnivore.distances.csv](data/carnivore.distance.csv)
+    - [carnivore.distances.csv](data/carnivore.distances.csv)
     - [primates.dna](data/primates.dna)
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
