@@ -91,9 +91,14 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/atIieAcNI9vWQryWIwu2eB0jnpfD9w5rFR2gz6wwcG5_ZRH3WupLtpmofL2OKWyE.nRKDn9WDkjPVXe7J) (Passcode required.)
     - [PDF](lec/6.Other-topics-inference.pdf)
 
-11. Oct. 8:
+11. Oct. 8: A bit about Bayesian MCMC & Distance matrix methods
+    - [video](https://umassboston.zoom.us/rec/share/83yVuWYgmPW-Jz-dmK1lX7HzDfI0_MBXGSNBGXDeQBpbkHeTpVh2j4dSQksZcKKL.i32gErR3YonKhjF9)
     - [carnivore.distances.csv](data/carnivore.distances.csv)
     - [primates.dna](data/primates.dna)
+    - [R code](ex/7/distance-matrix-methods.R)
+    - [Homework 3: Distance matrix methods](hw/3/hw3-problem.md)
+    
+12. Oct. 10:
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
