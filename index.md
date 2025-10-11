@@ -98,7 +98,11 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/7/distance-matrix-methods.R)
     - [Homework 3: Distance matrix methods](hw/3/hw3-problem.md)
     
-12. Oct. 10:
+12. Oct. 10: Bootstrapping with neighbor-joining & The gene-tree, species-tree problem
+    - [video](https://umassboston.zoom.us/rec/share/habxEf0iBSrrwRbMFrEQBGldUIslI8eAVmeYlhtxx6p0fxnz64S5-WotxVvD6U-i.VhyGRghIutJGivX-)
+    - [R code](ex/8/nj-bootstrapping-analysis.R)
+
+13. Oct. 15:
     - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
