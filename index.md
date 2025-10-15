@@ -102,11 +102,15 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/habxEf0iBSrrwRbMFrEQBGldUIslI8eAVmeYlhtxx6p0fxnz64S5-WotxVvD6U-i.VhyGRghIutJGivX-)
     - [R code](ex/8/nj-bootstrapping-analysis.R)
 
-13. Oct. 15:
+13. Oct. 15: The gene-tree, species-tree problem & Obtaining a chronogram (time-tree) using rate-smoothing
+    - [video](https://umassboston.zoom.us/rec/share/cYrQbjEaNpOtjolp9IRSF672YtZSOuiVbhFHMHsU0c1fI6XTwRSkXKsOFo13I1FZ.588nmPc0rlk5r-Ps)
+    - [LaurasiatherianML.nex](data/LaurasiatherianML.nex)
+    - [R code](ex/9/time-calibration-with-rate-smoothing.R)
+
+15. Oct. 17:
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
     - [Jackman_trees.phy](data/Jackman_trees.phy)
-    - [LaurasiatherianML.nex](data/LaurasiatherianML.nex)
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
