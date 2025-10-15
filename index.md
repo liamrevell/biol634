@@ -103,9 +103,10 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/8/nj-bootstrapping-analysis.R)
 
 13. Oct. 15:
-    - [Jackman_trees.phy](data/Jackman_trees.phy)
     - [H3N2.csv](data/H3N2.csv)
     - [H3N2.fasta](data/H3N2.fasta)
+    - [Jackman_trees.phy](data/Jackman_trees.phy)
+    - [LaurasiatherianML.nex](data/LaurasiatherianML.nex)
     - [primates.csv](data/primates.csv)
     - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
     - [woodmouse.fas](data/woodmouse.fas)
