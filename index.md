@@ -112,12 +112,12 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/7.IntroComparativeMethods.pdf)
     
 Other data files:
-    - [H3N2.csv](data/H3N2.csv)
-    - [H3N2.fasta](data/H3N2.fasta)
-    - [Jackman_trees.phy](data/Jackman_trees.phy)
-    - [primates.csv](data/primates.csv)
-    - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
-    - [woodmouse.fas](data/woodmouse.fas)
+  - [H3N2.csv](data/H3N2.csv)
+  - [H3N2.fasta](data/H3N2.fasta)
+  - [Jackman_trees.phy](data/Jackman_trees.phy)
+  - [primates.csv](data/primates.csv)
+  - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
+  - [woodmouse.fas](data/woodmouse.fas)
 
 ---
 
