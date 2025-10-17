@@ -107,7 +107,7 @@ In the second part of this course, students will learn the important theory and 
     - [LaurasiatherianML.nex](data/LaurasiatherianML.nex)
     - [R code](ex/9/time-calibration-with-rate-smoothing.R)
 
-15. Oct. 17: Introduction to phylogenetic comparative methods (guest lecture)
+14. Oct. 17: Introduction to phylogenetic comparative methods (guest lecture)
     - [video](https://umassboston.zoom.us/rec/share/uXgdWdORjMVwpLMoua0ohrPUgKv4Axr-xDFicSBKQhsA3H3w-uxFR3cDJdw0jb-G.tdjLnfTehOzinXUF)
     - [PDF](lec/7.IntroComparativeMethods.pdf)
     
