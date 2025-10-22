@@ -111,7 +111,7 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/uXgdWdORjMVwpLMoua0ohrPUgKv4Axr-xDFicSBKQhsA3H3w-uxFR3cDJdw0jb-G.tdjLnfTehOzinXUF)
     - [PDF](lec/7.IntroComparativeMethods.pdf)
     
-15. Oct. 22: Discrete phenotypic trait evolution
+15. Oct. 22: Discrete phenotypic trait evolution (the M*k* model)
     - [video](https://umassboston.zoom.us/rec/share/yZ3Ap0tJcW5B2zcgDChnxLJRlppWXG1XpBarUPuJWi9J7omUUg8G9A90r2w6L5bR.reGyU9K-Qiv55PdR)
     - [PDF](lec/8.Disc-char-models.pdf)
     - [R code](ex/10/basic-mk-models.R)
