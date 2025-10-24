@@ -117,8 +117,13 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/10/basic-mk-models.R)
     
 16. Oct. 24:
+    - [video](https://umassboston.zoom.us/rec/share/6-db14z92mq5-iyoAJqn78NTfc0qCOAPaHd0oiVABLjCFPagta5OZychUARx4Zvf.RNbTVcV3JDTXsZ0I)
+    - [R code](ex/11/custom-mk-models.R)
     - [brandley_table.csv](data/brandley_table.csv)
-    - [squamate.tre](data/squamate)
+    - [squamate.tre](data/squamate.tre)
+    - [Homework 4: Custom M*k* models](hw/4/hw4-problem.md)
+
+    
         
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
