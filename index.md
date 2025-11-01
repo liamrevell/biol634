@@ -127,6 +127,10 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/CkbXl28S_hEXwCf-dxZw2igL8T0_23PPxADSTEyTDDrXE9mr5guetMQdvxw1Z1Jp.g244YnLuVTvK7ae-)
     - [R code](ex/12/more-about-mk-models.R)
     
+18. Oct. 31: Brownian motion and phylogenetically independent contrasts
+    - [video](https://umassboston.zoom.us/rec/share/KUWsFnTRGmaIV6osFJuUHGGo5McpIzMFmQ7sTa-8o_iKV5ZsnjCRVEEfWt3VVTzX.SQw5k-VtENhLy0Xd)
+    - [PDF](lec/9.BrownianMotion-and-PICs.pdf)
+    
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
