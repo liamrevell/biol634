@@ -131,6 +131,10 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/KUWsFnTRGmaIV6osFJuUHGGo5McpIzMFmQ7sTa-8o_iKV5ZsnjCRVEEfWt3VVTzX.SQw5k-VtENhLy0Xd)
     - [PDF](lec/9.BrownianMotion-and-PICs.pdf)
     
+19. Nov. 5: Phylogenetically independent contrasts & PGLS
+    - [video](https://umassboston.zoom.us/rec/share/vlV2nHSo4v49UldPgLQNV1Oxd4jxzjfvDKZvS27A2Zk01OwkukQjMKeSvvBftb5r.bFTnY5LiCj8HGdL6)
+    - [R code](ex/13/contrasts-and-pgls.R)
+    
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
