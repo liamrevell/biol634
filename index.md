@@ -135,6 +135,10 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/vlV2nHSo4v49UldPgLQNV1Oxd4jxzjfvDKZvS27A2Zk01OwkukQjMKeSvvBftb5r.bFTnY5LiCj8HGdL6)
     - [R code](ex/13/contrasts-and-pgls.R)
     
+20. Nov. 7: Ancestral state estimation for discrete characters
+    - [video](https://umassboston.zoom.us/rec/share/bxp24W4iwlbMDoqXCExE9NVkHRx05yRSeTQT87vH8oB3HkCC5c_0gHNdd_sEk0hB.yU55btuB-FxhXMQj)
+    - [PDF](lec/10.Ancestral-States.pdf)
+    
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
