@@ -92,51 +92,51 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/6.Other-topics-inference.pdf)
 
 11. Oct. 8: A bit about Bayesian MCMC & Distance matrix methods
-    - [video](https://umassboston.zoom.us/rec/share/83yVuWYgmPW-Jz-dmK1lX7HzDfI0_MBXGSNBGXDeQBpbkHeTpVh2j4dSQksZcKKL.i32gErR3YonKhjF9)
+    - [video](https://umassboston.zoom.us/rec/share/83yVuWYgmPW-Jz-dmK1lX7HzDfI0_MBXGSNBGXDeQBpbkHeTpVh2j4dSQksZcKKL.i32gErR3YonKhjF9) (Passcode required.)
     - [carnivore.distances.csv](data/carnivore.distances.csv)
     - [primates.dna](data/primates.dna)
     - [R code](ex/7/distance-matrix-methods.R)
     - [Homework 3: Distance matrix methods](hw/3/hw3-problem.md)
     
 12. Oct. 10: Bootstrapping with neighbor-joining & The gene-tree, species-tree problem
-    - [video](https://umassboston.zoom.us/rec/share/habxEf0iBSrrwRbMFrEQBGldUIslI8eAVmeYlhtxx6p0fxnz64S5-WotxVvD6U-i.VhyGRghIutJGivX-)
+    - [video](https://umassboston.zoom.us/rec/share/habxEf0iBSrrwRbMFrEQBGldUIslI8eAVmeYlhtxx6p0fxnz64S5-WotxVvD6U-i.VhyGRghIutJGivX-) (Passcode required.)
     - [R code](ex/8/nj-bootstrapping-analysis.R)
 
 13. Oct. 15: The gene-tree, species-tree problem & Obtaining a chronogram (time-tree) using rate-smoothing
-    - [video](https://umassboston.zoom.us/rec/share/cYrQbjEaNpOtjolp9IRSF672YtZSOuiVbhFHMHsU0c1fI6XTwRSkXKsOFo13I1FZ.588nmPc0rlk5r-Ps)
+    - [video](https://umassboston.zoom.us/rec/share/cYrQbjEaNpOtjolp9IRSF672YtZSOuiVbhFHMHsU0c1fI6XTwRSkXKsOFo13I1FZ.588nmPc0rlk5r-Ps) (Passcode required.)
     - [LaurasiatherianML.nex](data/LaurasiatherianML.nex)
     - [R code](ex/9/time-calibration-with-rate-smoothing.R)
 
 14. Oct. 17: Introduction to phylogenetic comparative methods (guest lecture)
-    - [video](https://umassboston.zoom.us/rec/share/uXgdWdORjMVwpLMoua0ohrPUgKv4Axr-xDFicSBKQhsA3H3w-uxFR3cDJdw0jb-G.tdjLnfTehOzinXUF)
+    - [video](https://umassboston.zoom.us/rec/share/uXgdWdORjMVwpLMoua0ohrPUgKv4Axr-xDFicSBKQhsA3H3w-uxFR3cDJdw0jb-G.tdjLnfTehOzinXUF) (Passcode required.)
     - [PDF](lec/7.IntroComparativeMethods.pdf)
     
 15. Oct. 22: Discrete phenotypic trait evolution (the M*k* model)
-    - [video](https://umassboston.zoom.us/rec/share/yZ3Ap0tJcW5B2zcgDChnxLJRlppWXG1XpBarUPuJWi9J7omUUg8G9A90r2w6L5bR.reGyU9K-Qiv55PdR)
+    - [video](https://umassboston.zoom.us/rec/share/yZ3Ap0tJcW5B2zcgDChnxLJRlppWXG1XpBarUPuJWi9J7omUUg8G9A90r2w6L5bR.reGyU9K-Qiv55PdR) (Passcode required.)
     - [PDF](lec/8.Disc-char-models.pdf)
     - [R code](ex/10/basic-mk-models.R)
     
 16. Oct. 24: Custom discrete character M*k* models in R
-    - [video](https://umassboston.zoom.us/rec/share/6-db14z92mq5-iyoAJqn78NTfc0qCOAPaHd0oiVABLjCFPagta5OZychUARx4Zvf.RNbTVcV3JDTXsZ0I)
+    - [video](https://umassboston.zoom.us/rec/share/6-db14z92mq5-iyoAJqn78NTfc0qCOAPaHd0oiVABLjCFPagta5OZychUARx4Zvf.RNbTVcV3JDTXsZ0I) (Passcode required.)
     - [R code](ex/11/custom-mk-models.R)
     - [brandley_table.csv](data/brandley_table.csv)
     - [squamate.tre](data/squamate.tre)
     - [Homework 4: Custom M*k* models](hw/4/hw4-problem.md)
     
 17. Oct. 29: More about M*k* model fitting in R
-    - [video](https://umassboston.zoom.us/rec/share/CkbXl28S_hEXwCf-dxZw2igL8T0_23PPxADSTEyTDDrXE9mr5guetMQdvxw1Z1Jp.g244YnLuVTvK7ae-)
+    - [video](https://umassboston.zoom.us/rec/share/CkbXl28S_hEXwCf-dxZw2igL8T0_23PPxADSTEyTDDrXE9mr5guetMQdvxw1Z1Jp.g244YnLuVTvK7ae-) (Passcode required.)
     - [R code](ex/12/more-about-mk-models.R)
     
 18. Oct. 31: Brownian motion and phylogenetically independent contrasts
-    - [video](https://umassboston.zoom.us/rec/share/KUWsFnTRGmaIV6osFJuUHGGo5McpIzMFmQ7sTa-8o_iKV5ZsnjCRVEEfWt3VVTzX.SQw5k-VtENhLy0Xd)
+    - [video](https://umassboston.zoom.us/rec/share/KUWsFnTRGmaIV6osFJuUHGGo5McpIzMFmQ7sTa-8o_iKV5ZsnjCRVEEfWt3VVTzX.SQw5k-VtENhLy0Xd) (Passcode required.)
     - [PDF](lec/9.BrownianMotion-and-PICs.pdf)
     
 19. Nov. 5: Phylogenetically independent contrasts & PGLS
-    - [video](https://umassboston.zoom.us/rec/share/vlV2nHSo4v49UldPgLQNV1Oxd4jxzjfvDKZvS27A2Zk01OwkukQjMKeSvvBftb5r.bFTnY5LiCj8HGdL6)
+    - [video](https://umassboston.zoom.us/rec/share/vlV2nHSo4v49UldPgLQNV1Oxd4jxzjfvDKZvS27A2Zk01OwkukQjMKeSvvBftb5r.bFTnY5LiCj8HGdL6) (Passcode required.)
     - [R code](ex/13/contrasts-and-pgls.R)
     
 20. Nov. 7: Ancestral state estimation for discrete characters
-    - [video](https://umassboston.zoom.us/rec/share/bxp24W4iwlbMDoqXCExE9NVkHRx05yRSeTQT87vH8oB3HkCC5c_0gHNdd_sEk0hB.yU55btuB-FxhXMQj)
+    - [video](https://umassboston.zoom.us/rec/share/bxp24W4iwlbMDoqXCExE9NVkHRx05yRSeTQT87vH8oB3HkCC5c_0gHNdd_sEk0hB.yU55btuB-FxhXMQj) (Passcode required.)
     - [PDF](lec/10.Ancestral-States.pdf)
     
 Other data files:
