@@ -139,6 +139,10 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/bxp24W4iwlbMDoqXCExE9NVkHRx05yRSeTQT87vH8oB3HkCC5c_0gHNdd_sEk0hB.yU55btuB-FxhXMQj) (Passcode required.)
     - [PDF](lec/10.Ancestral-States.pdf)
     
+21. Nov. 12: Ancestral state reconstruction of discrete traits in R
+    - [video](https://umassboston.zoom.us/rec/share/dKyWY6K7-Qr421SxNmKMZWiPZErv08NAWgcBtPeKcmFk47bmMeRZSOqwwfwVnJrK.4pnAOq1n2HM9VOs2)
+    - [R code](ex/14/asr-discrete-characters.R)
+    
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
