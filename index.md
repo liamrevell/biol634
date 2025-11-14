@@ -140,14 +140,16 @@ In the second part of this course, students will learn the important theory and 
     - [PDF](lec/10.Ancestral-States.pdf)
     
 21. Nov. 12: Ancestral state reconstruction of discrete traits in R
-    - [video](https://umassboston.zoom.us/rec/share/dKyWY6K7-Qr421SxNmKMZWiPZErv08NAWgcBtPeKcmFk47bmMeRZSOqwwfwVnJrK.4pnAOq1n2HM9VOs2)
+    - [video](https://umassboston.zoom.us/rec/share/dKyWY6K7-Qr421SxNmKMZWiPZErv08NAWgcBtPeKcmFk47bmMeRZSOqwwfwVnJrK.4pnAOq1n2HM9VOs2) (Passcode required.)
     - [R code](ex/14/asr-discrete-characters.R)
     
 22. Nov. 14: Ancestral state reconstruction of continuous characters
-    - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
-    - [conraua_svl.csv](data/conraua_svl.csv)
+    - [video](https://umassboston.zoom.us/rec/share/gBghumgxTFdaPUu2Efs07v3OalPDwmw0emi3qFxvrqtyZxi2ZyUjVd9VXUHMZ1aR.UglYBKKsakCNc4Mw) (Passcode required.)
+    - [R code](ex/15/asr-continuous-traits.R)
     
 Other data files:
+  - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
+  - [conraua_svl.csv](data/conraua_svl.csv)
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
   - [Jackman_trees.phy](data/Jackman_trees.phy)
