@@ -143,6 +143,10 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/dKyWY6K7-Qr421SxNmKMZWiPZErv08NAWgcBtPeKcmFk47bmMeRZSOqwwfwVnJrK.4pnAOq1n2HM9VOs2)
     - [R code](ex/14/asr-discrete-characters.R)
     
+22. Nov. 14: Ancestral state reconstruction of continuous characters
+    - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
+    - [conraua_svl.csv](data/conraua_svl.csv)
+    
 Other data files:
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
