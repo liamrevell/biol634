@@ -1,0 +1,65 @@
+#NEXUS
+[R-package APE, Thu Nov  6 05:02:53 2025]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 26;
+	TAXLABELS
+		neomexicanus
+		larselli
+		vandykei
+		idahoensis
+		vehiculum
+		dunni
+		elongatus
+		stormi
+		fourchensis
+		ouachitae
+		caddoensis
+		yonahlossee
+		jordani
+		glutinosus
+		punctatus
+		wehrlei
+		websteri
+		dorsalis
+		welleri
+		serratus
+		hubrichti
+		cinereus
+		nettingi
+		hoffmani
+		shenandoah
+		richmondi
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	neomexicanus,
+		2	larselli,
+		3	vandykei,
+		4	idahoensis,
+		5	vehiculum,
+		6	dunni,
+		7	elongatus,
+		8	stormi,
+		9	fourchensis,
+		10	ouachitae,
+		11	caddoensis,
+		12	yonahlossee,
+		13	jordani,
+		14	glutinosus,
+		15	punctatus,
+		16	wehrlei,
+		17	websteri,
+		18	dorsalis,
+		19	welleri,
+		20	serratus,
+		21	hubrichti,
+		22	cinereus,
+		23	nettingi,
+		24	hoffmani,
+		25	shenandoah,
+		26	richmondi
+	;
+	TREE * UNTITLED = [&R] ((((1:149.7416212,2:149.7416212):126.401328,(3:44.86186222,4:44.86186222):231.281087):91.39088827,((5:147.3166557,6:147.3166557):72.74896576,(7:41.83065532,8:41.83065532):178.2349661):147.468216):54.14914337,(((((9:39.10256908,(10:20.00596559,11:20.00596559):19.09660349):27.38190241,((12:36.98072426,13:36.98072426):16.67163799,14:53.65236225):12.83210924):80.12490256,(15:20.61220697,16:20.61220697):125.9971671):57.01194991,(17:184.2973799,(18:35.16200011,19:35.16200011):149.1353798):19.32394405):58.99929316,(20:59.41165535,((21:39.40568977,22:39.40568977):9.245181074,((23:25.15901733,(24:20.00596559,25:20.00596559):5.153051742):9.80090233,26:34.95991966):13.69095119):10.7607845):203.2089618):159.0623637);
+END;

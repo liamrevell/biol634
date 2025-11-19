@@ -147,6 +147,13 @@ In the second part of this course, students will learn the important theory and 
     - [video](https://umassboston.zoom.us/rec/share/gBghumgxTFdaPUu2Efs07v3OalPDwmw0emi3qFxvrqtyZxi2ZyUjVd9VXUHMZ1aR.UglYBKKsakCNc4Mw) (Passcode required.)
     - [R code](ex/15/asr-continuous-traits.R)
     
+23. Nov. 19: Diversification
+    - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
+    - [elapidae.nex](data/elapidae.nex)
+    - [grunts.csv](data/grunts.csv)
+    - [grunts.phy](data/grunts.phy)
+    - [salamanders.nex](data/salamanders.nex)
+    
 Other data files:
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
   - [conraua_svl.csv](data/conraua_svl.csv)
