@@ -148,8 +148,13 @@ In the second part of this course, students will learn the important theory and 
     - [R code](ex/15/asr-continuous-traits.R)
     
 23. Nov. 19: Diversification
-    - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
+    - [video](https://umassboston.zoom.us/rec/share/u2shlVdTRrOZFon-YRDP21ZX_Om3XhL_nrlv_E8SltkIGf02MtDXVfqjZ0oyXuEc.M1h65MCnFOVcosK_) (Passcode required.)
+    - [PDF](lec/11.Diversification.pdf)
+    - [R code](ex/16/diversification-models.R)
     - [elapidae.nex](data/elapidae.nex)
+    - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
+
+24. Nov. 21:
     - [grunts.csv](data/grunts.csv)
     - [grunts.phy](data/grunts.phy)
     - [salamanders.nex](data/salamanders.nex)
