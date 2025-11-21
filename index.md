@@ -155,9 +155,16 @@ In the second part of this course, students will learn the important theory and 
     - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
 
 24. Nov. 21:
+    - [bonyfish.csv](data/bonyfish.csv)
+    - [bonyfish.tre](data/bonyfish.tre)
     - [grunts.csv](data/grunts.csv)
     - [grunts.phy](data/grunts.phy)
+    - [Liolaemidae.data.csv](data/Liolaemidae.data.csv)
+    - [Liolaemidae.MCC.nex](data/Liolaemidae.MCC.nex)
+    - [pipefishes.phy](data/pipefishes.phy)
     - [salamanders.nex](data/salamanders.nex)
+    - [terapontidae.csv](data/terapontidae.csv)
+    - [terapontidae.phy](data/terapontidae.phy)
     
 Other data files:
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
