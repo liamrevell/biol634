@@ -154,19 +154,24 @@ In the second part of this course, students will learn the important theory and 
     - [elapidae.nex](data/elapidae.nex)
     - [10kTrees_Primates.nex](data/10kTrees_Primates.nex)
 
-24. Nov. 21:
-    - [bonyfish.csv](data/bonyfish.csv)
-    - [bonyfish.tre](data/bonyfish.tre)
+24. Nov. 21: More diversification and SSE models
+    - [video](https://umassboston.zoom.us/rec/share/y0Ia-Kaw9nxjkXq6A9JL4CfnKUP7-X7YgWPmJ3ZAcS6UsvQ6_-dSxZVER6AaSwlI.tyg44PZwdij12bhd) (Passcode required.)
+    - [R code](ex/17/more-diversification-and-sse-models.R)
     - [grunts.csv](data/grunts.csv)
     - [grunts.phy](data/grunts.phy)
+    - [pipefishes.phy](data/pipefishes.phy)
+    
+25. Nov. 29:
+    - [bonyfish.csv](data/bonyfish.csv)
+    - [bonyfish.tre](data/bonyfish.tre)
     - [Liolaemidae.data.csv](data/Liolaemidae.data.csv)
     - [Liolaemidae.MCC.nex](data/Liolaemidae.MCC.nex)
-    - [pipefishes.phy](data/pipefishes.phy)
-    - [salamanders.nex](data/salamanders.nex)
-    - [terapontidae.csv](data/terapontidae.csv)
-    - [terapontidae.phy](data/terapontidae.phy)
+
     
 Other data files:
+  - [salamanders.nex](data/salamanders.nex)
+  - [terapontidae.csv](data/terapontidae.csv)
+  - [terapontidae.phy](data/terapontidae.phy)
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
   - [conraua_svl.csv](data/conraua_svl.csv)
   - [H3N2.csv](data/H3N2.csv)
