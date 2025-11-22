@@ -161,7 +161,7 @@ In the second part of this course, students will learn the important theory and 
     - [grunts.phy](data/grunts.phy)
     - [pipefishes.phy](data/pipefishes.phy)
     
-25. Nov. 29:
+25. Nov. 26:
     - [bonyfish.csv](data/bonyfish.csv)
     - [bonyfish.tre](data/bonyfish.tre)
     - [Liolaemidae.data.csv](data/Liolaemidae.data.csv)
