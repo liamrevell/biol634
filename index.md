@@ -169,15 +169,15 @@ In the second part of this course, students will learn the important theory and 
 
     
 Other data files:
-  - [salamanders.nex](data/salamanders.nex)
-  - [terapontidae.csv](data/terapontidae.csv)
-  - [terapontidae.phy](data/terapontidae.phy)
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
   - [conraua_svl.csv](data/conraua_svl.csv)
   - [H3N2.csv](data/H3N2.csv)
   - [H3N2.fasta](data/H3N2.fasta)
   - [Jackman_trees.phy](data/Jackman_trees.phy)
   - [primates.csv](data/primates.csv)
+  - [salamanders.nex](data/salamanders.nex)
+  - [terapontidae.csv](data/terapontidae.csv)
+  - [terapontidae.phy](data/terapontidae.phy)
   - [vertebrate-morphology.csv](data/vertebrate-morphology.csv)
   - [woodmouse.fas](data/woodmouse.fas)
 
