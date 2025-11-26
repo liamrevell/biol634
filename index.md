@@ -161,12 +161,13 @@ In the second part of this course, students will learn the important theory and 
     - [grunts.phy](data/grunts.phy)
     - [pipefishes.phy](data/pipefishes.phy)
     
-25. Nov. 26:
+25. Nov. 26: Complex models of discrete & continuous trait evolution
     - [bonyfish.csv](data/bonyfish.csv)
     - [bonyfish.tre](data/bonyfish.tre)
     - [Liolaemidae.data.csv](data/Liolaemidae.data.csv)
     - [Liolaemidae.MCC.nex](data/Liolaemidae.MCC.nex)
-
+    - [pagel94-example.csv](data/pagel94-example.csv)
+    - [pagel94-example.tre](data/pagel94-example.tre)
     
 Other data files:
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
