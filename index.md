@@ -163,6 +163,7 @@ In the second part of this course, students will learn the important theory and 
     
 25. Nov. 26: Complex models of discrete & continuous trait evolution
     - [video](https://umassboston.zoom.us/rec/share/kiopjlznnu5A63Zonm_B2XuMLFE3WqHRkUbicjeACRtwK3QQMCCeqevttLUmN6o.Y46K9nOr5OZXeKbI) (Passcode required.)
+    - [PDF](lec/12.Complex-trait-models.pdf)
     - [R code](ex/18/complex-discrete-trait-models.R)
     - [bonyfish.csv](data/bonyfish.csv)
     - [bonyfish.tre](data/bonyfish.tre)
