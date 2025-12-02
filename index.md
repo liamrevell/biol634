@@ -172,6 +172,13 @@ In the second part of this course, students will learn the important theory and 
     - [pagel94-example.csv](data/pagel94-example.csv)
     - [pagel94-example.tre](data/pagel94-example.tre)
     
+26. Dec. 2: Phylogenetic community ecology
+    - [SJ_ComMatrix.csv](data/SJ_ComMatrix.csv)
+    - [SJtree.phy](data/SJtree.phy)
+
+27. Dec. 4: Graphing phylogenies & comparative data
+    - [vertebrate_phylogeny.tre](data/vertebrate_phylogeny.tre)
+    
 Other data files:
   - [conraua_phylogeny.tre](data/conraua_phylogeny.tre)
   - [conraua_svl.csv](data/conraua_svl.csv)
