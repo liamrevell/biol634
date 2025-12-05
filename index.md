@@ -180,6 +180,8 @@ In the second part of this course, students will learn the important theory and 
     - [SJtree.phy](data/SJtree.phy)
 
 27. Dec. 4: Graphing phylogenies & comparative data
+    - [video](https://umassboston.zoom.us/rec/share/RE0JvYx_7YnxiarztKayuugIHe7Mo8S2IEvmY18aMxckOZzaSt4hU5nuV40rYXSf.d8XilzeJVnxdKNbZ) (Passcode required.)
+    - [R code](ex/20/graphing-phylogenies.R)
     - [vertebrate_phylogeny.tre](data/vertebrate_phylogeny.tre)
     
 Other data files:
