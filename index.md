@@ -172,14 +172,14 @@ In the second part of this course, students will learn the important theory and 
     - [pagel94-example.csv](data/pagel94-example.csv)
     - [pagel94-example.tre](data/pagel94-example.tre)
     
-26. Dec. 2: Phylogenetic community ecology
+26. Dec. 3: Phylogenetic community ecology
     - [video](https://umassboston.zoom.us/rec/share/o_XYfVJsfXZv2pYpvJsFRTN8o87zAjhKvweFN6OhkLrcxIgvmlf4l4HwkTtNbjMB.cjW6aQvNJ24EsCkP) (Passcode required.)
     - [PDF](lec/13.Phylogenetic-community-ecology.pdf)
     - [R code part 1](ex/19/more-continuous-trait-models.R), [R code part 2](ex/19/phylogenetic-community-ecology.R)
     - [SJ_ComMatrix.csv](data/SJ_ComMatrix.csv)
     - [SJtree.phy](data/SJtree.phy)
 
-27. Dec. 4: Graphing phylogenies & comparative data
+27. Dec. 5: Graphing phylogenies & comparative data
     - [video](https://umassboston.zoom.us/rec/share/RE0JvYx_7YnxiarztKayuugIHe7Mo8S2IEvmY18aMxckOZzaSt4hU5nuV40rYXSf.d8XilzeJVnxdKNbZ) (Passcode required.)
     - [R code](ex/20/graphing-phylogenies.R)
     - [vertebrate_phylogeny.tre](data/vertebrate_phylogeny.tre)
